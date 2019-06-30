@@ -3,8 +3,8 @@ package bitcoin
 import (
 	"errors"
 	"fmt"
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/hash"
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/merkle"
+	"../hash"
+	"../merkle"	
 )
 
 // SpvBitcoinNode is our representation of a Single Payment Verification (SPV)

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/bitcoin"
+	"../src/bitcoin"
 )
 
 /* This program demonstrates the use of Merkle Trees by Bitcoin

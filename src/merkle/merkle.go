@@ -1,7 +1,7 @@
 package merkle
 
 import (
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/hash"
+	"../hash"
 	"math"
 )
 

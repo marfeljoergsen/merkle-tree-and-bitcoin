@@ -1,7 +1,7 @@
 package bitcoin
 
 import (
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/merkle"
+	"../merkle"
 )
 
 // FullBitcoinNode is our representation of a real full Bitcoin node.

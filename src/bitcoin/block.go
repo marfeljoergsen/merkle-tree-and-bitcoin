@@ -1,7 +1,7 @@
 package bitcoin
 
 import (
-	"github.com/peterhoward42/merkle-tree-and-bitcoin/src/hash"
+	"../hash"
 )
 
 // The Block type simulates a Bitcoin block - stripped down to only the parts
